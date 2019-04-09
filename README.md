@@ -18,8 +18,13 @@ Report should include thee following:
 - Most Popular Items
 - Most Profitable Items
 
-## Sample
+## Code Sample
 
+## Top Spenders
 ![alt text](https://github.com/adrianakopf/Pandas/blob/master/CodeSamplePictures/sample-1.png)
+
+## Most Popular Items
 ![alt text](https://github.com/adrianakopf/Pandas/blob/master/CodeSamplePictures/sample-2.png)
+
+## Least Popular Items
 ![alt text](https://github.com/adrianakopf/Pandas/blob/master/CodeSamplePictures/sample-3.png)
