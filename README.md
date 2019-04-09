@@ -20,11 +20,11 @@ Report should include thee following:
 
 ## Code Sample
 
-## Top Spenders
+# Top Spenders
 ![alt text](https://github.com/adrianakopf/Pandas/blob/master/CodeSamplePictures/sample-1.png)
 
-## Most Popular Items
+# Most Popular Items
 ![alt text](https://github.com/adrianakopf/Pandas/blob/master/CodeSamplePictures/sample-2.png)
 
-## Least Popular Items
+# Least Popular Items
 ![alt text](https://github.com/adrianakopf/Pandas/blob/master/CodeSamplePictures/sample-3.png)
